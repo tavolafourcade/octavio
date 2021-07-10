@@ -53,14 +53,14 @@ https://media0.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif
   <br />
  
 <p align="center" >
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+   
     <img  src="https://github-readme-stats.vercel.app/api?username=tavolafourcade&&show_icons=true&theme=radical"/>
    </a>
 </p>
 <br />
 
 <p align="center" >
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
+   
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tavolafourcade&theme=dark"/>
    </a>
 </p>
